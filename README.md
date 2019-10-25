@@ -1,5 +1,5 @@
 # Max2Babylon2015
-Max2Babylon2015官方修改版。
+Max2Babylon2015导出gltf官方修改版。
 # 使用注意事项
 1.不透明物体的贴图的Alpha来源必须设置成无（不透明）。
 
